@@ -1,0 +1,7 @@
+id,from,to,price,airline
+1,Mumbai,Delhi,5000,IndiGo
+2,Bangalore,Kolkata,7000,Air India
+3,Chennai,Mumbai,4500,SpiceJet
+4,Delhi,Bangalore,6000,GoAir
+5,Kolkata,Chennai,5500,Vistara
+6,Vadodara,Vasad,150,SVIT

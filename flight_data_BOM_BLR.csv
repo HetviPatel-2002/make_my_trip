@@ -1,0 +1,91 @@
+FlightName,FlightCode,DepartingTime,ArrivingTime,Duration,Price,DepartingCity,ArrivingCity
+Air India,AI 621,3:55,5:50,01 h 55 m,"2,307",Mumbai,Delhi
+AirAsia,I5 670,19:55,21:45,01 h 50 m,"2,773",Delhi,Bangalore
+AirAsia,I5 2992,23:55,1:45,01 h 50 m,"2,773",Bangalore,Kolkata
+IndiGo,6E 5388,21:30,23:15,01 h 45 m,"2,839",Chennai,Hyderabad
+Akasa Air,QP 1103,0:45,2:20,01 h 35 m,"3,005",Hyderabad,Pune
+Akasa Air,QP 1103,0:45,2:20,01 h 35 m,"3,005",Pune,Jaipur
+Akasa Air,QP 1103,0:45,2:20,01 h 35 m,"3,005",Kolkata,Ahmedabad
+Akasa Air,QP 1341,20:00,21:35,01 h 35 m,"3,005",Ahmedabad,Chandigarh
+Akasa Air,QP 1341,20:00,21:35,01 h 35 m,"3,005",Chandigarh,Lucknow
+Akasa Air,QP 1139,18:05,19:40,01 h 35 m,"3,053",Lucknow,Goa
+IndiGo,6E 6953,0:50,2:40,01 h 50 m,"3,219",Goa,Mumbai
+Akasa Air,QP 1306,19:00,20:35,01 h 35 m,"3,283",Jaipur,Indore
+IndiGo,6E 5352,6:10,7:50,01 h 40 m,"3,420",Indore,Coimbatore
+IndiGo,6E 5382,12:30,14:15,01 h 45 m,"3,420",Coimbatore,Nagpur
+IndiGo,6E 5382,12:30,14:15,01 h 45 m,"3,420",Nagpur,Visakhapatnam
+Air India,AI 607,16:40,18:25,01 h 45 m,"3,578",Visakhapatnam,Bhubaneswar
+IndiGo,6E 5069,11:15,13:00,01 h 45 m,"3,650",Bhubaneswar,Surat
+IndiGo,6E 5069,11:15,13:00,01 h 45 m,"3,650",Surat,Patna
+Vistara,UK 849,17:30,19:15,01 h 45 m,"4,075",Patna,Dehradun
+IndiGo,6E 5125,23:15,0:50,01 h 35 m,"4,100",Dehradun,Guwahati
+IndiGo,6E 5125,23:15,0:50,01 h 35 m,"4,100",Guwahati,Raipur
+Akasa Air,QP 1110,9:25,11:05,01 h 40 m,"4,300",Raipur,Ranchi
+Vistara,UK 845,5:55,7:45,01 h 50 m,"4,436",Ranchi,Thiruvananthapuram
+IndiGo,6E 6293,7:45,9:30,01 h 45 m,"4,600",Thiruvananthapuram,Vadodara
+Vistara,UK 853,16:00,17:45,01 h 45 m,"4,600",Vadodara,Ludhiana
+Akasa Air,QP 1625,13:35,15:10,01 h 35 m,"5,039",Ludhiana,Mysore
+Akasa Air,QP 1625,13:35,15:10,01 h 35 m,"5,039",Mysore,Varanasi
+IndiGo,6E 5294,14:45,16:40,01 h 55 m,"5,540",Varanasi,Mangalore
+Air India,AI 641,18:55,20:25,01 h 30 m,"5,783",Mangalore,Jodhpur
+Vistara,UK 865,18:55,20:55,02 h,"5,966",Jodhpur,Udaipur
+IndiGo,6E 5221,16:45,18:35,01 h 50 m,"6,450",Udaipur,Noida
+IndiGo,6E 5067,18:05,19:55,01 h 50 m,"6,450",Noida,Bhopal
+IndiGo,6E 5067,18:05,19:55,01 h 50 m,"6,450",Bhopal,Jammu
+IndiGo,6E 5256,20:35,22:05,01 h 30 m,"6,450",Jammu,Kanpur
+Vistara,UK 857,21:30,23:15,01 h 45 m,"6,911",Kanpur,Agra
+IndiGo,6E 2244,19:30,21:15,01 h 45 m,"7,701",Agra,Aurangabad
+Air India,AI 603,6:45,8:40,01 h 55 m,"9,458",Aurangabad,Dharamshala
+Vistara,UK 863,9:05,10:50,01 h 45 m,"11,521",Dharamshala,Srinagar
+Vistara,UK 863,9:05,10:50,01 h 45 m,"11,521",Srinagar,Shillong
+IndiGo,6E 5296,7:00,8:40,01 h 40 m,"13,801",Shillong,Gwalior
+IndiGo,6E 5211,8:30,10:25,01 h 55 m,"13,801",Gwalior,Pondicherry
+IndiGo,6E 5212,9:50,11:35,01 h 45 m,"13,801",Pondicherry,Madurai
+Vistara,UK 851,7:00,8:50,01 h 50 m,"14,183",Madurai,Nashik
+Air India,AI 639,9:20,11:10,01 h 50 m,"17,018",Nashik,Rajkot
+Akasa Air,QP 1340,5:30,7:20,01 h 50 m,"3,345",Rajkot,Meerut
+IndiGo,6E 5295,4:25,6:20,01 h 55 m,"3,520",Meerut,Amritsar
+IndiGo,6E 5295,4:25,6:20,01 h 55 m,"3,520",Amritsar,Jabalpur
+Akasa Air,QP 1624,4:50,6:55,02 h 05 m,"3,525",Jabalpur,Tirupati
+IndiGo,6E 5124,5:00,6:50,01 h 50 m,"3,900",Tirupati,Bareilly
+IndiGo,6E 5124,5:00,6:50,01 h 50 m,"3,900",Bareilly,Kozhikode
+IndiGo,6E 5124,5:00,6:50,01 h 50 m,"3,900",Kozhikode,Haridwar
+Akasa Air,QP 1138,15:45,17:20,01 h 35 m,"3,939",Haridwar,Ajmer
+Akasa Air,QP 1138,15:45,17:20,01 h 35 m,"3,939",Ajmer,Siliguri
+IndiGo,6E 5351,15:00,16:40,01 h 40 m,"4,090",Siliguri,Bokaro
+IndiGo,6E 5251,16:30,18:15,01 h 45 m,"4,090",Bokaro,Durgapur
+IndiGo,6E 939,22:45,0:35,01 h 50 m,"4,090",Durgapur,Bhavnagar
+IndiGo,6E 5209,6:00,7:35,01 h 35 m,"4,140",Bhavnagar,Hosur
+IndiGo,6E 5293,12:15,14:05,01 h 50 m,"4,140",Hosur,Gorakhpur
+IndiGo,6E 5293,12:15,14:05,01 h 50 m,"4,140",Gorakhpur,Warangal
+Akasa Air,QP 1104,11:45,13:30,01 h 45 m,"4,249",Warangal,Aligarh
+IndiGo,6E 6347,21:45,23:40,01 h 55 m,"4,400",Aligarh,Guntur
+IndiGo,6E 6347,21:45,23:40,01 h 55 m,"4,400",Guntur,Muzaffarpur
+AirAsia,I5 472,2:00,4:00,02 h,"4,401",Muzaffarpur,Bhagalpur
+Air India,AI 604,9:20,11:35,02 h 15 m,"4,621",Bhagalpur,Rohtak
+Air India,AI 604,9:20,11:35,02 h 15 m,"4,621",Rohtak,Nellore
+Akasa Air,QP 1109,6:55,8:35,01 h 40 m,"4,629",Nellore,Bilaspur
+AirAsia,I5 2991,21:25,23:10,01 h 45 m,"4,899",Bilaspur,Kakinada
+IndiGo,6E 488,10:15,11:55,01 h 40 m,"4,900",Kakinada,Jamshedpur
+IndiGo,6E 5134,13:45,15:20,01 h 35 m,"4,900",Jamshedpur,Sangli
+Akasa Air,QP 1136,6:25,7:55,01 h 30 m,"5,149",Sangli,Tirunelveli
+Akasa Air,QP 1136,6:25,7:55,01 h 30 m,"5,149",Tirunelveli,Malegaon
+IndiGo,6E 5207,7:05,8:55,01 h 50 m,"5,240",Malegaon,Bellary
+IndiGo,6E 5255,18:00,19:50,01 h 50 m,"5,595",Bellary,Mathura
+IndiGo,6E 5376,19:30,21:10,01 h 40 m,"6,190",Mathura,Rampur
+Air India,AI 640,6:45,8:35,01 h 50 m,"6,721",Rampur,Shivamogga
+Air India,AI 622,12:05,14:00,01 h 55 m,"6,721",Shivamogga,Kurnool
+Air India,AI 622,12:05,14:00,01 h 55 m,"6,721",Kurnool,Tumkur
+Air India,AI 610,19:20,21:20,02 h,"6,721",Tumkur,Panipat
+IndiGo,6E 5083,20:40,22:20,01 h 40 m,"8,191",Panipat,Ambala
+Vistara,UK 866,6:40,8:20,01 h 40 m,"9,346",Ambala,Moradabad
+Vistara,UK 852,9:30,11:25,01 h 55 m,"9,346",Moradabad,Saharanpur
+Vistara,UK 854,18:25,20:15,01 h 50 m,"9,346",Saharanpur,Kollam
+Vistara,UK 854,18:25,20:15,01 h 50 m,"9,346",Kollam,Nanded
+IndiGo,6E 259,8:30,10:10,01 h 40 m,"9,490",Nanded,Ujjain
+Vistara,UK 846,8:30,10:10,01 h 40 m,"11,038",Ujjain,Bhiwandi
+Vistara,UK 840,21:35,23:20,01 h 45 m,"11,038",Bhiwandi,Mangalore
+Vistara,UK 850,19:55,21:35,01 h 40 m,"11,934",Mangalore,Tiruchirappalli
+Vistara,UK 864,19:00,20:35,01 h 35 m,"14,596",Tiruchirappalli,Kolhapur
+Vistara,UK 864,19:00,20:35,01 h 35 m,"14,596",Kolhapur,Firozabad
+Air India,AI 642,21:25,23:20,01 h 55 m,"20,581",Firozabad,Solapur
