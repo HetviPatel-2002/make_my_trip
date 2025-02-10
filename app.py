@@ -116,3 +116,5 @@ def search_hotels():
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
     app.run(host="0.0.0.0", port=port)
+    ## if run locally then:
+    # app.run(debug=True)
