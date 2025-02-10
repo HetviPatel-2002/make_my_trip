@@ -80,8 +80,8 @@ import os
 app = Flask(__name__)
 
 # Loading the dataset:
-flights_df = pd.read_csv(r"model\datasets\flask\flight_data_BOM_BLR.csv")
-hotels_df = pd.read_csv(r'model\datasets\flask\indian_hotel_bookings.csv')
+flights_df = pd.read_csv(r"flight_data_BOM_BLR.csv")
+hotels_df = pd.read_csv(r'indian_hotel_bookings.csv')
 
 @app.route('/')
 def home():
